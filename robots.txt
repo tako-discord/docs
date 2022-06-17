@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://kayano-bot.github.io/docs/sitemap.xml
